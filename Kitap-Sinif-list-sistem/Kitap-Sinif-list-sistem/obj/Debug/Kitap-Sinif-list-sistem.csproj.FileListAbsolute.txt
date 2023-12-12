@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\bin\Debug\Kitap-Sinif-list-sistem.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\bin\Debug\Kitap-Sinif-list-sistem.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\bin\Debug\Kitap-Sinif-list-sistem.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap-Sinif-list-sistem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap-Sinif-list-sistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap_Sinif_list_sistem.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap_Sinif_list_sistem.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap-Sinif-list-sistem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap-Sinif-list-sistem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap-Sinif-list-sistem.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Kitap-Sinif-list-sistem\Kitap-Sinif-list-sistem\obj\Debug\Kitap-Sinif-list-sistem.pdb
